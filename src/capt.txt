@@ -1,0 +1,3 @@
+eee eee Temperature 1 1 1990 12 1 bloc_C 
+sdfdsf sdfdsf Temperature 1 1 1990 12 1 bloc_F 
+eeeaze z Temperature 1 1 1990 zzz eee bloc_B 

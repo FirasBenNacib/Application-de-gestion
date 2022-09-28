@@ -1,0 +1,4 @@
+155 Hebergement Coupure_eau eau 1 1 1990  
+123 Hebergement Coupure_courant courant 1 1 1990  
+123 Restauration Coupure_courant eau 1 1 1990  
+500 Restauration Coupure_eau testtest 12 1 2000  
